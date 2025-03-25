@@ -76,5 +76,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Sunidhi Prasad** 
 - **Nandani Daga** 
 
-Project Link: [MealMitra on GitHub](https://github.com/Nandanidaga/mealmitra)
+Project Link: [MealMitra on GitHub](https://rococo-dusk-d3b6b0.netlify.app/home)
+
+https://rococo-dusk-d3b6b0.netlify.app/home
+
+acess the site from the about link
+
+
 
